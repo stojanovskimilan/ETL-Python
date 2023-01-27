@@ -1,6 +1,5 @@
 # ETL-Python
 
-Steps:
 
 1. Load the data from Excel Source
 
